@@ -128,9 +128,9 @@ Machine Learning based Intrusion Detection System using Federated Learning.
 
 📧 Email: abishek16122005@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+💼 LinkedIn: https://www.linkedin.com/in/abishek-s-2bb098292/
 
-🌐 GitHub: https://github.com/YOUR_USERNAME
+🌐 GitHub: https://github.com/abisheks-02
 
 ---
 
