@@ -100,9 +100,9 @@ Machine Learning based Intrusion Detection System using Federated Learning.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abisheks-02&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisheks-02layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -112,7 +112,7 @@ Machine Learning based Intrusion Detection System using Federated Learning.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=abisheks-02&theme=tokyonight"/>
 
 </p>
 
@@ -120,7 +120,7 @@ Machine Learning based Intrusion Detection System using Federated Learning.
 
 ## 📊 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/abisheks-02)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abisheks-02&theme=tokyo-night)](https://github.com/abisheks-02)
 
 ---
 
